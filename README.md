@@ -1,5 +1,5 @@
-# SP25_DS5111_rmd9ev
-Repository for Software and Automation Skills Class Spring 2025 - UVA MSDS
+# End-to-End Data Pipeline
+Repository for a data pipeline that collects, processes, transforms, and stores financial data tables.
 
 [![Feature Validation](https://github.com/rachelmdaniel/SP25_DS5111_rmd9ev/actions/workflows/validations.yml/badge.svg?branch=LAB-03_csv_normalizer)](https://github.com/rachelmdaniel/SP25_DS5111_rmd9ev/actions/workflows/validations.yml)
 
